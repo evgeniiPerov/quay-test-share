@@ -1,1 +1,19 @@
-{"skills":[]}
+{
+  "hub": "quay-test-share",
+  "generated_at": "2026-05-09T09:39:13.046125313+00:00",
+  "schema_version": 1,
+  "skills": {
+    "add-entity": {
+      "version": "0.0.0",
+      "description": "Scaffold a MikroORM entity (with optional translation entity) in an existing module.",
+      "category": null,
+      "tags": [],
+      "path": "skills/add-entity",
+      "sha": "420fd319ad1e46ed4f641b93c20eec8e3a8bfc0a1655921bfc088c80c9e05e86",
+      "files": [
+        "SKILL.md"
+      ],
+      "source_format": "slash_command"
+    }
+  }
+}
