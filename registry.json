@@ -1,6 +1,6 @@
 {
   "hub": "quay-test-share",
-  "generated_at": "2026-05-16T09:19:52.345478229+00:00",
+  "generated_at": "2026-05-16T09:49:59.754902952+00:00",
   "schema_version": 1,
   "skills": {
     "add-entity": {
@@ -9,7 +9,7 @@
       "category": null,
       "tags": [],
       "path": "skills/add-entity",
-      "sha": "7fd1b762fefd567c5297f8f1b9b3187ad4528ebd05d90f63ebe16e305174eeb8",
+      "sha": "420fd319ad1e46ed4f641b93c20eec8e3a8bfc0a1655921bfc088c80c9e05e86",
       "files": [
         "SKILL.md"
       ],

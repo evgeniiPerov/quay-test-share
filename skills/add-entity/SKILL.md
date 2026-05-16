@@ -109,4 +109,3 @@ After creating the entity:
 5. **Add relations** — if this entity relates to others, add `@ManyToOne` / `@OneToMany` as needed
 6. **Sanitize DTOs** — apply `@SanitizeRichText()` / `@SanitizePlainText()` on Create input fields per `.claude/rules/sanitize.md`
 7. **Register cache pattern** — if the entity has a public read endpoint, add to `ENTITY_CACHE_PATTERNS` per `.claude/rules/caching.md`
-local change
