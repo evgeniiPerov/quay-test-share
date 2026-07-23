@@ -1,6 +1,6 @@
 {
   "hub": "quay-test-share",
-  "generated_at": "2026-05-16T09:49:59.754902952+00:00",
+  "generated_at": "2026-07-23T11:55:27.522393982+00:00",
   "schema_version": 1,
   "skills": {
     "add-entity": {
@@ -26,6 +26,20 @@
         "SKILL.md"
       ],
       "source_format": "frontmatter"
+    },
+    "using-quay": {
+      "version": "1.0.0",
+      "description": "Install, publish and mirror agent skills with quay, the git-native skill registry. Use when a task involves quay commands, .agents/skills/, SKILL.md files, sharing skills between projects or teammates, a skill \"hub\" repo, or mirroring skills into .claude/.codex/.cursor directories.",
+      "category": null,
+      "tags": [],
+      "path": "skills/using-quay",
+      "sha": "3a56ff36b6de012b47a0d397c6102fd8cacd0b184412b4a71a86736c32637420",
+      "files": [
+        "SKILL.md",
+        "REFERENCE.md"
+      ],
+      "source_format": "frontmatter",
+      "content_hash": "6306462739188cb67f1110e41d85d02c5e4db66319349a5d94561cf97e91f2a4"
     }
   }
 }
