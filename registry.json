@@ -1,6 +1,6 @@
 {
   "hub": "quay-test-share",
-  "generated_at": "2026-07-27T14:18:47.410162624+00:00",
+  "generated_at": "2026-07-27T14:57:27.151010283+00:00",
   "schema_version": 1,
   "skills": {
     "add-entity": {
@@ -16,19 +16,19 @@
       "source_format": "slash_command"
     },
     "diff-demo": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Test fixture for exercising `quay diff`. Not a real skill — it exists so folder-level hub-vs-local comparison can be tested against multiple files without editing a skill anyone depends on. Use when verifying quay diff behaviour end to end.",
       "category": null,
       "tags": [],
       "path": "skills/diff-demo",
-      "sha": "4d4cc27b3d998810a03eaba490f799575cea63cbb83053170b8469b9d7f9d085",
+      "sha": "724c5bdfa63b88f5ede3601d99d19d5cca13d44a2c9ddcd4863bb7396e8d9d7b",
       "files": [
         "SKILL.md",
         "references/notes.md",
         "scripts/hello.sh"
       ],
       "source_format": "frontmatter",
-      "content_hash": "16c19607573d2633d10ec89edce8b5ae5b85b652c6243ac82290f71542117677"
+      "content_hash": "fc454ad72bcbcf27e9d9364bbcd7599f0971ce7d1d2f6a3cf6e4962226ca773f"
     },
     "next-best-practices": {
       "version": "0.0.0",
