@@ -79,7 +79,3 @@ quay validate <name>
 
 Pair `scan` with `link check`: `scan` covers skill drift, `link check` covers
 mirror drift. Neither covers the other.
-
-## quay diff
-
-Compare an installed skill against the hub, file by file.
