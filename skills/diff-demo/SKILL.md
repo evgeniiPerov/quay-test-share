@@ -1,8 +1,15 @@
 ---
 name: diff-demo
 description: Test fixture for exercising `quay diff`. Not a real skill — it exists so folder-level hub-vs-local comparison can be tested against multiple files without editing a skill anyone depends on. Use when verifying quay diff behaviour end to end.
-version: latest
-license: MIT
+version: 1.1.0
+category: null
+tags: []
+author: null
+license: null
+quay:
+  min_version: null
+  resources: []
+source_format: frontmatter
 ---
 
 # diff-demo
